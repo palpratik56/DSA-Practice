@@ -1,9 +1,9 @@
 .vscode/
 output/
-1
-3a
-4
-4a
-5a
-grid_path
-kacmarz
+1.cpp
+3a.cpp
+4.cpp
+4a.cpp
+5a.cpp
+grid_path.cpp
+kacmarz.cpp
